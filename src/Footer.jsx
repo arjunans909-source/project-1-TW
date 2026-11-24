@@ -55,7 +55,7 @@ export default function Footer() {
 
 </div>
 
-   <div className='mt-20 md:p-20 pb-10 flex flex-col gap-5 items-center  text-[13px] md:font-bold md:flex md:justify-between'>
+   <div className=' mt-20 pb-10 flex justify-center text-[13px] md:font-bold'>
     <p>COPYRIGHT @ 2026 ALL RIGHTS RESERVED DESIGNED BY ARJUN</p>
    </div>
 
