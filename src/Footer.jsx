@@ -55,7 +55,8 @@ export default function Footer() {
 
 </div>
 
-   <div className=' mt-20 pb-10 flex justify-center text-[13px] md:font-bold'>
+   {/* <div className=' mt-20 pb-10 flex justify-center text-[13px] md:font-bold'> */}
+    <div className='p-20 text-[13px] text-center flex justify-center font-bold md:text-[15px]'>
     <p>COPYRIGHT @ 2026 ALL RIGHTS RESERVED DESIGNED BY ARJUN</p>
    </div>
 
